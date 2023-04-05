@@ -15,6 +15,9 @@ public class Main {
         department.addEmployee(emp2);
         department.addEmployee(emp3);
 
+
+
+
         // Display the department information using DepartmentDisplay
         DepartmentDisplay departmentDisplay = new DepartmentDisplay() {
             @Override
